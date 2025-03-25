@@ -1,0 +1,8 @@
+[package]
+name = "R1CS_Constraint_Verification_in_Rust_Using_ndarrays"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.16.1"
+
